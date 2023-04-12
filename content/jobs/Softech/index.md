@@ -1,10 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2020-02-15'
+title: 'Software Developer'
+company: 'Softech Limited'
+location: 'Dhaka, Bangladesh'
+range: 'February 2020 - June 2021'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js

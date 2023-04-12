@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2016-02-01'
+title: 'Intern'
+company: 'Grameen Communications'
+location: 'Dhaka, Bangladesh'
+range: 'February - December 2016'
+url: 'https://grameen.technology/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

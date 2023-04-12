@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-04-09'
+title: 'Senior Full Stack Developer'
+company: 'MPower'
+location: 'Kuala Lumpur, Malaysia'
+range: 'May 2022 - Present'
+url: 'https://mpowerts.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

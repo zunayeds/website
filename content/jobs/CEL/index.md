@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2017-01-15'
+title: 'Programmer Analyst'
+company: 'Computer Ease Limited'
+location: 'Dhaka, Bangladesh'
+range: 'January 2017 - February 2020'
+url: 'https://celimited.com/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

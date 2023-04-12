@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-06-14'
+title: 'Software Engineer'
+company: 'Relisource'
+location: 'Dhaka, Bangladesh'
+range: 'June 2021 - May 2022'
+url: 'https://www.relisource.com/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
