@@ -14,6 +14,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/zunayeds',
     },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCmFKrtY9IFBj1nsqemj8gKw',
+    },
   ],
 
   navLinks: [
@@ -25,10 +29,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
