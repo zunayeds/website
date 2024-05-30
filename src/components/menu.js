@@ -156,9 +156,6 @@ const StyledSidebar = styled.aside`
 `;
 
 const Menu = () => {
-  // eslint-disable-next-line no-console
-  console.log(process.env.GATSBY_DEMO_KEY);
-
   const [menuOpen, setMenuOpen] = useState(false);
 
   const toggleMenu = () => setMenuOpen(!menuOpen);

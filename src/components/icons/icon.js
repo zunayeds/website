@@ -16,8 +16,6 @@ import {
   IconStar,
   IconTwitter,
 } from '@components/icons';
-import IconStackoverflow from './stackoverflow';
-import IconYouTube from './youtube';
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -49,10 +47,6 @@ const Icon = ({ name }) => {
       return <IconStar />;
     case 'Twitter':
       return <IconTwitter />;
-    case 'StackOverflow':
-      return <IconStackoverflow />;
-    case 'YouTube':
-      return <IconYouTube />;
     default:
       return <IconExternal />;
   }
