@@ -65,6 +65,11 @@ const StyledCredit = styled.div`
       height: 14px;
     }
   }
+
+  #copyright-symbol {
+    font: menu;
+    font-size: 1.2em;
+  }
 `;
 
 const Footer = () => (
@@ -83,7 +88,7 @@ const Footer = () => (
     </StyledSocialLinks>
 
     <StyledCredit tabindex="-1">
-      &copy; Zunayed Shahriar |
+      <span id="copyright-symbol">&copy;</span> Zunayed Shahriar |
       <a href="https://github.com/bchiang7/v4">
         <div> Designed &amp; Built by Brittany Chiang</div>
       </a>

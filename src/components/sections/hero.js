@@ -69,10 +69,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building great digital experiences. Currently, I’m
-        focused on building manufacturing system for my client at{' '}
-        <a href="https://mpowerts.com/" target="_blank" rel="noreferrer">
-          MPower
+        I’m a senior software engineer specializing in building great digital experiences.
+        Currently, I’m focused on building Electronics Manufacturing System for{' '}
+        <a href="https://www.jabil.com/" target="_blank" rel="noreferrer">
+          Jabil
         </a>
         .
       </p>

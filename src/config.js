@@ -14,10 +14,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/zunayeds',
     },
-    {
-      name: 'YouTube',
-      url: 'https://www.youtube.com/channel/UCmFKrtY9IFBj1nsqemj8gKw',
-    },
+    // {
+    //   name: 'YouTube',
+    //   url: 'https://www.youtube.com/channel/UCmFKrtY9IFBj1nsqemj8gKw',
+    // },
   ],
 
   navLinks: [
